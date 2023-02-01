@@ -1,4 +1,5 @@
 import 'package:emag/screens/Articles.dart';
+import 'package:emag/screens/Events.dart';
 import 'package:emag/screens/Leaderboard.dart';
 import 'package:flutter/material.dart';
 

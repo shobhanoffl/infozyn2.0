@@ -49,6 +49,11 @@ dependencies:
   # The best swiper(carousel) for flutter, with multiple layouts, infinite loop. Compatible with Android & iOS.
   flutter_swiper_plus: ^2.0.4
 
+  expandable_text: ^2.3.0
+  cloud_firestore: ^4.3.1
+  firebase_auth: ^4.2.5
+  firebase_storage: ^11.0.10
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

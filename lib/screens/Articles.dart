@@ -182,7 +182,7 @@ class _ArticlesState extends State<Articles> {
                       ],
                     ),
                   ),
-                  const Expanded(
+                  Expanded(
                       child: TabBarView(
                           physics: NeverScrollableScrollPhysics(),
                           children: [
